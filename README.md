@@ -5,7 +5,7 @@ For now I'm focusing on trying new stuff like:
 - Nest
 - Fastify
 - Prisma 
-- Redis
+- Redis <br>
 (all this combined with TS by the way, no the JS bruh)
 
 # 💻 Tech Stack:
