@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working as Junior Software Dev<br>🌱 Learning some Blockchain topics, Node.js and TypeScript<br>⚡ Fun fact - Pigs can feel sadness 
+🔭 I’m currently working as Junior Software Dev<br>🌱 Learning some Blockchain topics, Back-End in general and TypeScript<br>⚡ Fun fact - Pigs can feel sadness 
+For now I'm focusing on trying new stuff like: 
+- Next
+- Nest
+- Fastify
+- Prisma 
+- Redis
 
 
 # 💻 Tech Stack:
