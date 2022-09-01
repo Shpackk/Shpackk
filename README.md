@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Junior Software Dev<br>🌱 Learning some Blockchain topics, Back-End in general and TypeScript<br>⚡ Fun fact - Pigs can feel sadness <br>
+🔭 I’m currently working as Junior Software Dev<br>🌱 Learning some Blockchain topics, Back-End in general and TypeScript<br>
 For now I'm focusing on trying new stuff like: 
 - Next
 - Nest
