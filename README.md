@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Junior Software Dev<br>🌱 Learning some Blockchain topics, Back-End in general and TypeScript<br>
+🔭 I’m currently working as Middle Fullstack Software Developer<br>🌱 Learning some Blockchain topics, Back-End in general and TypeScript<br>
 For now I'm focusing on trying new stuff like: 
 - Next
 - Nest
