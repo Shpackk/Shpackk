@@ -1,8 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working as Middle Fullstack Software Developer<br>🌱 Learning some Blockchain topics, Back-End in general and TypeScript<br>
 For now I'm focusing on trying new stuff like: 
-- React (current focus)
-- Next
+- Microservices (curr)
+- SQL
+- Data Consistency/ DB's
 - Nest
 - Fastify
 - Prisma 
