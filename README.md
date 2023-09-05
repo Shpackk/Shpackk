@@ -1,13 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working as Middle Fullstack Software Developer<br>🌱 Learning some Blockchain topics, Back-End in general and TypeScript<br>
 For now I'm focusing on:
-- SQL (curr)
-- Data Consistency/ DB's (curr)
-- Nest
-- Fastify
-- Prisma 
-- Redis <br>
-(all this combined with TS by the way)
+- React Native App
 
 <img src="https://www.codewars.com/users/Shpackk/badges/large">
 
