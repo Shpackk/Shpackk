@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working as a Backend Software Developer<br>🌱 Learning some Blockchain topics, Back-End in general and TypeScript<br>
 For now I'm focusing on:
-- React Native App
+- NestJS
 
 <img src="https://www.codewars.com/users/Shpackk/badges/large">
 
