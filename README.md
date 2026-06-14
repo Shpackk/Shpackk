@@ -1,6 +1,3 @@
-About Me:
-- breathing from time to time
-
 <img src="https://www.codewars.com/users/Shpackk/badges/large">
 
 ![Shpackk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shpackk&show_icons=true&theme=transparent)
